@@ -35,7 +35,7 @@ This technology is used in various applications, from accessibility tools to soc
 1. Clone this repository to your build machine using:
 
 ```bash
-  git clone https://github.com/alexvatti/Image-Captioning.git
+  git clone https://github.com/xxiamdsk/Image-Captioning.git
 ```
 2. Navigate to the project directory:
 
@@ -71,4 +71,4 @@ Feel free to contribute and enhance the project!
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-For any inquiries or issues, please contact Alex at alexvatti@gmail.com
+For any inquiries or issues, please contact Alex at deepaksinghrx@gmail.com
